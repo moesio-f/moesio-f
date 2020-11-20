@@ -6,4 +6,3 @@ Hello, my name is Moésio. I'm a Computer Science student at the Federal Rural U
 - :computer: I want to research on Computational Astrophysics on the future. 
 - :books: I enjoy studying about almost everything.
 - :pencil: I’m currently learning C/C++. I've had experience with C#, Java and Kotlin.
-- :video_game: I’m working on a game using C and Raylib for graphic interface.
