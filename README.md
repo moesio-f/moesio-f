@@ -18,9 +18,16 @@ My name is Moésio and I am a Computer Science student at the Federal Rural Univ
 > SILVA FILHO, MOÉSIO W. DA; MIRANDA, PÉRICLES B. C.; NASCIMENTO, ANDRÉ C. A.; MELLO, RAFAEL FERREIRA. [Zeroth Order Policy Search Methods for Global Optimization Problems: An Experimental Study](https://doi.org/10.5753/eniac.2021.18254), 2021, Brasil. Anais do XVIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2021), 2021. p. 209.
 
 ---
+
+<details><summary>GitHub Stats</summary>
+<p>
 <a href="https://github-readme-stats.vercel.app/api?username=moesio-f&show_icons=true&theme=tokyonight">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=moesio-f&show_icons=true&theme=tokyonight" />
 </a>
+</p>
+<p>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=moesio-f&layout=compact&theme=tokyonight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesio-f&layout=compact&theme=tokyonight" />
 </a>
+</p>
+</details>
