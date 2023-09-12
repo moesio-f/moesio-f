@@ -15,8 +15,11 @@ My name is Moésio and I am a Computer Science student at the Federal Rural Univ
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-green?style=flat-square&labelColor=grey&color=green&link=https://orcid.org/0000-0002-8984-4001)](https://orcid.org/0000-0002-8984-4001)
 [![Lattes Badge](https://img.shields.io/badge/-CNPq%20Lattes-green?style=flat-square&labelColor=grey&color=blue&link=http://lattes.cnpq.br/2052605083076286)](http://lattes.cnpq.br/2052605083076286)
 
+> SILVA FILHO, MOÉSIO W. DA; BARBOSA, GABRIEL A.; MIRANDA, PÉRICLES B. C. [Learning Global Optimization by Deep Reinforcement Learning](dx.doi.org/10.1007/978-3-031-21689-3_30). Intelligent Systems. 1ed.: Springer Cham, 2022, p. 417-433.
+> 
 > SILVA FILHO, MOÉSIO W. DA; MIRANDA, PÉRICLES B. C.; NASCIMENTO, ANDRÉ C. A.; MELLO, RAFAEL FERREIRA. [Zeroth Order Policy Search Methods for Global Optimization Problems: An Experimental Study](https://doi.org/10.5753/eniac.2021.18254), 2021, Brasil. Anais do XVIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2021), 2021. p. 209.
-
+> 
+> LIMA, T. B.; MELLO, R. F.; SILVA FILHO, M. W. da.; BITTENCOURT, I. I.; CORDEIRO, T. D.; JOSE, J. [Sequence Labeling Algorithms for Punctuation Restoration in Brazilian Portuguese Texts](http://dx.doi.org/10.1007/978-3-031-21689-3_43). Intelligent Systems. 1ed.: Springer Cham, 2022, v. , p. 616-630.
 ---
 
 <details><summary>GitHub Stats</summary>
