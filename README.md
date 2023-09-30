@@ -1,8 +1,6 @@
 ### Hi there! 👋
 # Moésio Filho :milky_way:
-[![Gmail Badge](https://img.shields.io/badge/-moesio.wenceslau@ufrpe.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moesio.wenceslau@ufrpe.br)](mailto:moesio.wenceslau@ufrpe.br)
-
-[![Gmail Badge](https://img.shields.io/badge/-moesio.f@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moesio.f@gmail.com)](mailto:moesio.f@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-moesio.wenceslau@ufrpe.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moesio.wenceslau@ufrpe.br)](mailto:moesio.wenceslau@ufrpe.br) [![Gmail Badge](https://img.shields.io/badge/-moesio.f@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moesio.f@gmail.com)](mailto:moesio.f@gmail.com)
 
 My name is Moésio and I am a Computer Science student at the Federal Rural University of Pernambuco (UFRPE).
 
@@ -21,16 +19,3 @@ My name is Moésio and I am a Computer Science student at the Federal Rural Univ
 > 
 > LIMA, T. B.; MELLO, R. F.; SILVA FILHO, M. W. da.; BITTENCOURT, I. I.; CORDEIRO, T. D.; JOSE, J. [Sequence Labeling Algorithms for Punctuation Restoration in Brazilian Portuguese Texts](http://dx.doi.org/10.1007/978-3-031-21689-3_43). Intelligent Systems. 1ed.: Springer Cham, 2022, v. , p. 616-630.
 ---
-
-<details><summary>GitHub Stats</summary>
-<p>
-<a href="https://github-readme-stats.vercel.app/api?username=moesio-f&show_icons=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=moesio-f&show_icons=true&theme=tokyonight" />
-</a>
-</p>
-<p>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=moesio-f&layout=compact&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesio-f&layout=compact&theme=tokyonight" />
-</a>
-</p>
-</details>
