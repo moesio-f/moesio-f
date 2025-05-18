@@ -1,6 +1,10 @@
 ### Hi there! 👋
 # Moésio Filho :milky_way:
 [![Gmail Badge](https://img.shields.io/badge/-moesio.wenceslau@ufrpe.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moesio.wenceslau@ufrpe.br)](mailto:moesio.wenceslau@ufrpe.br) [![Gmail Badge](https://img.shields.io/badge/-moesio.f@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:moesio.f@gmail.com)](mailto:moesio.f@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat-square&labelColor=grey&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/moesiof/)](https://www.linkedin.com/in/moesiof/)
+[![ORCID Badge](https://img.shields.io/badge/-ORCID-green?style=flat-square&labelColor=grey&color=green&link=https://orcid.org/0000-0002-8984-4001)](https://orcid.org/0000-0002-8984-4001)
+[![Lattes Badge](https://img.shields.io/badge/-CNPq%20Lattes-green?style=flat-square&labelColor=grey&color=blue&link=http://lattes.cnpq.br/2052605083076286)](http://lattes.cnpq.br/2052605083076286)
+[![Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-green?style=flat-square&labelColor=grey&color=orange&link=https://scholar.google.com/citations?user=3Xr6bNkAAAAJ&hl=en)](https://scholar.google.com/citations?user=3Xr6bNkAAAAJ&hl=en)
 
 My name is Moésio and I am a Computer Science student at the Federal Rural University of Pernambuco (UFRPE). 
 
@@ -10,9 +14,6 @@ My name is Moésio and I am a Computer Science student at the Federal Rural Univ
 - :pencil: I've had experience with a few programming languages: Python, Java, C, C#, Haskell, Go, Kotlin.
 
 ## Bibliographical Production
-[![ORCID Badge](https://img.shields.io/badge/-ORCID-green?style=flat-square&labelColor=grey&color=green&link=https://orcid.org/0000-0002-8984-4001)](https://orcid.org/0000-0002-8984-4001)
-[![Lattes Badge](https://img.shields.io/badge/-CNPq%20Lattes-green?style=flat-square&labelColor=grey&color=blue&link=http://lattes.cnpq.br/2052605083076286)](http://lattes.cnpq.br/2052605083076286)
-[![Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-green?style=flat-square&labelColor=grey&color=orange&link=https://scholar.google.com/citations?user=3Xr6bNkAAAAJ&hl=en)](https://scholar.google.com/citations?user=3Xr6bNkAAAAJ&hl=en)
 
 <details>
 <summary>Optimization 📈</summary>
