@@ -6,12 +6,9 @@
 [![Lattes Badge](https://img.shields.io/badge/-CNPq%20Lattes-green?style=flat-square&labelColor=grey&color=blue&link=http://lattes.cnpq.br/2052605083076286)](http://lattes.cnpq.br/2052605083076286)
 [![Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-green?style=flat-square&labelColor=grey&color=orange&link=https://scholar.google.com/citations?user=3Xr6bNkAAAAJ&hl=en)](https://scholar.google.com/citations?user=3Xr6bNkAAAAJ&hl=en)
 
-My name is Moésio and I am a Computer Science student at the Federal Rural University of Pernambuco (UFRPE). 
+My name is Moésio and I am an AI Researcher and Engineer with experience solving real-world problems across various domains, contributing to the state of the art through scientific research and publications. 
 
-- :dizzy: I love Computing, Artificial Intelligence, Physics, and Astronomy. 
-- :computer: I want to research Computational Astrophysics in the future!
-- :books: I enjoy studying almost everything, and I hope to contribute with Open Source projects.
-- :pencil: I've had experience with a few programming languages: Python, Java, C, C#, Haskell, Go, Kotlin.
+![moesio-f's Stats](https://github-readme-stats.vercel.app/api?username=moesio-f&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Bibliographical Production
 
