@@ -9,8 +9,8 @@
 My name is Moésio and I am an AI Researcher and Engineer with experience solving real-world problems across various domains, contributing to the state of the art through scientific research and publications. 
 
 <div style="display: flex; justify-content: space-between;">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=moesio-f&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=200"/>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesio-f&theme=vue-dark&size_weight=0.3&count_weight=0.7&hide=jupyter%20notebook,asp,shell,makefile,dockerfile&layout=compact&hide_border=true&card_width=200"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=moesio-f&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=320"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesio-f&theme=vue-dark&size_weight=0.3&count_weight=0.7&hide=jupyter%20notebook,asp,shell,makefile,dockerfile&layout=compact&hide_border=true&card_width=320"/>
 </div>
 
 ## Bibliographical Production
